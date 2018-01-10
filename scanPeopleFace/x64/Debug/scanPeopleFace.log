@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\lhh12\documents\visual studio 2017\projects\scanpeopleface\scanpeopleface\源.cpp(7): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  scanPeopleFace.vcxproj -> C:\Users\lhh12\documents\visual studio 2017\Projects\scanPeopleFace\x64\Debug\scanPeopleFace.exe
+  scanPeopleFace.vcxproj -> C:\Users\lhh12\documents\visual studio 2017\Projects\scanPeopleFace\x64\Debug\scanPeopleFace.pdb (Partial PDB)
